@@ -6,7 +6,7 @@
             "range": 20,
             "cooldown": 1.5,
             "prefab": "OWNER",
-            "icon": "rbxassetid://12345678",
+            "icon": "rbxassetid://107931196951765",
             "unlocked_by_default": true
         },
         "BETA": {
@@ -15,7 +15,7 @@
             "range": 15,
             "cooldown": 1,
             "prefab": "BETA",
-            "icon": "rbxassetid://87654321",
+            "icon": "rbxassetid://107931196951765",
             "unlocked_by_default": true
         }
     },

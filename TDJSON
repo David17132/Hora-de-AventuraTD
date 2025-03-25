@@ -1,0 +1,23 @@
+{
+    "units": {
+        "OWNER": {
+            "cost": 500,
+            "damage": 30,
+            "range": 20,
+            "cooldown": 1.5,
+            "prefab": "OWNER",
+            "icon": "rbxassetid://12345678",
+            "unlocked_by_default": true
+        },
+        "BETA": {
+            "cost": 300,
+            "damage": 20,
+            "range": 15,
+            "cooldown": 1,
+            "prefab": "BETA",
+            "icon": "rbxassetid://87654321",
+            "unlocked_by_default": true
+        }
+    },
+    "default_equipped": ["OWNER", "BETA", null, null, null]
+}
